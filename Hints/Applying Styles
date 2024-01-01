@@ -1,0 +1,10 @@
+Remember that JSX elements can receive inline styles as follows:
+
+    <someElement 
+        style={someStyle}
+    />
+    
+In this example, someStyle could either be an object with style information, written in the format that React expects, or a variable standing for such an object. 
+
+For more info on inline styles, see the React documentation: https://reactjs.org/docs/dom-elements.html#style
+
